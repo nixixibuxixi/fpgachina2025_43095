@@ -1,0 +1,1 @@
+使用vivado内的源工程文件可生成xsa文件，在vitis平台上打开运行vitis文件，加载xsa文件即可上板实验
